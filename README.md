@@ -191,3 +191,9 @@ style【关于返回键的颜色样式等在style文件中修改】
     </style>
 
 	</resources>
+
+效果图：
+
+![](http://i.imgur.com/2QNGRSR.png)
+
+![](http://i.imgur.com/cw2nA5c.png)
